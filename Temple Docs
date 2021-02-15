@@ -40,7 +40,6 @@ readfile
 loadfile
 dofile
 
-
 game.HttpGet
 game.GetObjects
 
@@ -79,7 +78,6 @@ debug.profileend
 debug.getstack
 debug.setstack
 debug.traceback
-
 
 bit.extract
 bit.bor
