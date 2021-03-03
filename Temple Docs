@@ -2,10 +2,13 @@ getnamecallmethod
 setnamecallmethod
 getthreadcontext
 setthreadcontext
+sethiddenproperty
+setsimulationradius
 getinstancecache
 getnilinstances
 getrawmetatable
 getcallingscript
+gethiddenproperty
 getcclosure
 getsenv
 
